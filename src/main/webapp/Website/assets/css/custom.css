@@ -1,0 +1,53 @@
+/*
+Custom Css
+*/
+
+.col-12 .col-md-4 .p-5, .mt-3:hover{
+    box-shadow: black 2px 2px 2px;
+    background-color: rgb(145, 238, 133);
+}
+
+.btn.btn-success:hover{
+    background-color: antiquewhite;
+    color: black;
+    font-weight: 600;
+
+}
+.hoverkardoo a i:hover{
+    border-radius: 100%;
+    line-height: 1.2rem;
+    width: 22px;
+    height: 22px;
+    background-color: rgb(144, 149, 136);
+    color: antiquewhite;
+}
+
+.nav-icon i:hover{
+    border-radius: 100%;
+    width: 29px;
+    height: 29px;
+    line-height: 1.2rem;
+    background-color: rgb(255, 255, 255);
+    color: antiquewhite; 
+}
+
+.nav-item a{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.btn1 {
+    background-color: #28a745; /* Green color for the buttons */
+    color: #fff; /* White text color */
+    padding: 10px 20px; /* Padding for the buttons */
+    text-decoration: none; /* Remove underline from the links */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+/* Style for hover state */
+.btn1:hover {
+    background-color: #218838; /* Darker green color on hover */
+}
